@@ -8,6 +8,10 @@ layout: base
     max-width: 600px;
     text-align: center;
   }
+  @keyframes rainbow {
+    0% { background-position: 100% 50%; }
+    100% { background-position: -100% 50%; }
+  }
 
   h1 {
     margin: 30px 0;
@@ -15,12 +19,15 @@ layout: base
     line-height: 1;
     letter-spacing: -1px;
 
-    /* Ajout de l'effet multicolore */
+
     background-image: linear-gradient(to left, red, orange, yellow, green, blue, indigo, violet);
     color: transparent;
     -webkit-background-clip: text;
     background-clip: text;
-}
+
+    animation: rainbow 5s linear infinite;
+    background-size: 200% auto;
+  }
   
 </style>
 
