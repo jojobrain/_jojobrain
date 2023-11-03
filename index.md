@@ -15,7 +15,7 @@ title: Home
             alt="follow on Twitter"></a>
 
 
-👋, Hey welcome !
+👋 Hey, welcome !
 Im jojobrain and this is my homepage !
 * Follow me on [GitHub](https://github.com/jojobrain)
 
