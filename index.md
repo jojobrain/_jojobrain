@@ -16,7 +16,7 @@ title: Home
 
 
 👋 Hey, welcome !
-Im jojobrain and this is my homepage !
+This is my homepage !
 * Follow me on [GitHub](https://github.com/jojobrain)
 
 <div>
